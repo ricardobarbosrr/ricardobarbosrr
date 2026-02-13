@@ -87,7 +87,7 @@
 
 <!-- ─────────────────────────── PROJECTS ─────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="22" /> **Projetos em destaque**
+🚀 **Projetos em destaque**
 
 <div align="center">
 <table>
