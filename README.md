@@ -4,7 +4,7 @@
 
 # Ricardo Barbosa
 
-**Senior Software Engineer** at **Senha Digital** · Curitiba, BR
+**Senior Software Engineer** at **SynMongo** · Curitiba, BR
 
 5+ years building digital products from zero to deploy.
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="50%">
 
-**[Truco 24hr](https://truco24hr.com)** · `live`
+**[Truco 24hr](https://truco24hr.com)**
 
 Real-time multiplayer card game with advanced AI engine and integrated payments.
 
@@ -41,7 +41,7 @@ Real-time multiplayer card game with advanced AI engine and integrated payments.
 </td>
 <td width="50%">
 
-**[Priorado](https://priorado.com.br)** · `live`
+**[Priorado](https://priorado.com.br)**
 
 News portal with custom CMS, auth system and content management.
 
@@ -52,11 +52,11 @@ News portal with custom CMS, auth system and content management.
 <tr>
 <td width="50%">
 
-**[Spotify Control](https://github.com/ricardobarbosrr/spotifycontrol)** · `open source`
+**JurisForce** · `in progress`
 
-Hand gesture and voice control for Spotify using computer vision.
+AI-powered platform built for legal professionals — smart document analysis and workflow automation.
 
-`python` `opencv` `mediapipe`
+`react` `python` `ai` `langchain`
 
 </td>
 <td width="50%">
