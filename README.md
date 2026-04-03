@@ -4,7 +4,7 @@
 
 # Ricardo Barbosa
 
-**Senior Software Engineer** at **SynMongo** · Curitiba, BR
+**Senior Software Engineer** at **[SynMongo](https://synmongo.com.br)** · Curitiba, BR
 
 5+ years building digital products from zero to deploy.
 
