@@ -2,11 +2,11 @@
 
 <br/>
 
-# Hey, I'm Ricardo Barbosa
+# Ricardo Barbosa
 
-**Senior Software Engineer** building scalable products from zero to deploy.
+**Senior Software Engineer** at **Senha Digital** · Curitiba, BR
 
-Currently at **[Senha Digital](https://senhadigital.com)** · Based in Curitiba, BR
+5+ years building digital products from zero to deploy.
 
 <br/>
 
@@ -18,17 +18,9 @@ Currently at **[Senha Digital](https://senhadigital.com)** · Based in Curitiba,
 
 <br/>
 
-```ts
-const stack = {
-    languages:  ["TypeScript", "Python", "Rust"],
-    frontend:   ["React", "Next.js", "Vue", "Nuxt", "Tailwind"],
-    backend:    ["Node.js", "Express", "GraphQL", "Prisma"],
-    infra:      ["AWS", "Docker", "Nginx", "Vercel"],
-    data:       ["PostgreSQL", "MongoDB", "Redis"],
-} as const;
-```
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nodejs,python,rust,aws,docker,postgres,mongodb,redis&theme=dark" />
 
-<br/>
+<br/><br/>
 
 ---
 
@@ -84,10 +76,6 @@ Social media management with AI — automation, analytics, multi-platform.
 ---
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ricardobarbosrr&show_icons=true&hide_border=true&bg_color=00000000&title_color=888&icon_color=888&text_color=666&ring_color=888&include_all_commits=true&count_private=true&hide_title=true" height="150"/>
-
-<br/><br/>
 
 <sub>open to freelance & collaborations — [let's talk](https://wa.me/5541992882034?text=Ol%C3%A1%20Barbosa!)</sub>
 
